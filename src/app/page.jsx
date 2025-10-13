@@ -34,7 +34,7 @@ export default function Home() {
         >
           {/* Desktop Background (lg and up) */}
           <Image
-            src="/saber-legend.jpg"
+            src="/Saber-legend.jpg"
             alt="Desktop Background"
             fill
             priority
